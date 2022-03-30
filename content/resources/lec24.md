@@ -4,6 +4,7 @@ description: 'Integral Equation Methods, Lecture 4: Formulating Boundary Integra
   Equations'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/884716526199fb9b5373cefc8a233997_lec24.pdf
 file_type: application/pdf
+parent_uid: 6c55b7dd-f774-4ba4-ed0b-11d5bccf1779
 resourcetype: Document
 title: lec24.pdf
 uid: 88471652-6199-fb9b-5373-cefc8a233997
